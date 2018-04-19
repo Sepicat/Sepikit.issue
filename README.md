@@ -11,6 +11,7 @@
     * Kanna - 基于 libxml.o，速度是 SwiftSoup 的 3 倍以上，但是在某些情况下会有数据爬取错误
     * SwiftSoup - Swift 原生 xml 爬虫，API 友好准确略较高
 * Organisation Repos 和 Members 列表分页修复
+* User Profile 页面支持对用户的 follow 功能
 
 ## v1.2.0
 
