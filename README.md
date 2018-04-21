@@ -16,6 +16,7 @@
 * 静态更新 follower 数据，并作出校准
 * cell 点击后动画时机优化
 * 修复 *Straycat* 爬虫策略，修正数据错误
+* 废弃 *Telegram* 交流社区，转换为 *Wechat Group*
 
 #### GitHub 线上社区构建
 
