@@ -12,11 +12,12 @@
 
 #### App 变化
 
-* 对于 Email 增加 App 内邮件发送功能
+* 对于 Email 增加 App 内邮件发送功能（延期到 1.2.3）
 * 静态更新 follower 数据，并作出校准
-* cell 点击后动画时机优化
+* cell 点击后动画时机优化（延期到 1.2.3）
 * 修复 *Straycat* 爬虫策略，修正数据错误
 * 废弃 *Telegram* 交流社区，转换为 *Wechat Group*
+* 修复 *Straycat* 爬虫奔溃。（Bugly 2018.5.8 上报崩溃率 19% 😭）
 
 #### GitHub 线上社区构建
 
