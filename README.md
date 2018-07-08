@@ -5,8 +5,19 @@
 * SepiKit - 【尚未开源】总架构方案，Sepicat MVVM-C 简易非绑定架构协议方案。
 * [Straycat](https://github.com/Sepicat/Straycat) - 用于 GitHub 额外数据的爬取，支持 **Kanna**、**SwiftSoup**、**正则表达式**三种爬取策略。
 * Icecat（Ice）- 【尚未开源】LRU 缓存策略，思想来源于 **YYCache**。
+* Flowercat - 云端配置文件下发格式。现在支持 Theme 分发定制。
+* Curiouscat - 【已经开源】基于 `WKWebView` 的 GitHub Markdown 渲染器。原理是注入 js 修改 css 脚本。这样可以解决图片渲染加载的问题
 
 ## Sepicat 更新日志
+
+### v1.2.3
+
+### App 变化
+
+* 修复了 *Straycat* 数组越界问题，crash 率已经收敛到 %0.1；
+* 解决了登陆用户个人页滑动卡顿问题；
+* 搜索页 3d Touch 打开；
+* *Flowercat* 主题定制上线；
 
 ### v1.2.2（正在施工）
 
@@ -39,3 +50,9 @@
 
 * 新增换肤功能（后期将增加皮肤分享社区）
 * 将 Trending 爬虫策略修改为 Kanna
+
+### v1.2.3
+
+* *ABTest* 模型上线；
+* Feed Activity UI Style 修改 - Repo Detail 信息外漏
+* 接入 `Curiouscat` 的 Markdown 渲染
