@@ -10,30 +10,11 @@
 
 ## Sepicat 更新日志
 
-### v1.2.3
+### v1.2.4（正在施工）
 
-### App 变化
+* JSON -> graphQL
+* README 渲染，Curiouscat 增强
 
-* 修复了 *Straycat* 数组越界问题，crash 率已经收敛到 %0.1；
-* 解决了登陆用户个人页滑动卡顿问题；
-* 搜索页 3d Touch 打开；
-* *Flowercat* 主题定制上线；
-
-### v1.2.2（正在施工）
-
-#### App 变化
-
-* 对于 Email 增加 App 内邮件发送功能（延期到 1.2.3）
-* 静态更新 follower 数据，并作出校准
-* cell 点击后动画时机优化（延期到 1.2.3）
-* 修复 *Straycat* 爬虫策略，修正数据错误
-* 废弃 *Telegram* 交流社区，转换为 *Wechat Group*
-* 修复 *Straycat* 爬虫奔溃。（Bugly 2018.5.8 上报崩溃率 19% 😭）
-
-#### GitHub 线上社区构建
-
-* 开始搭建 Pages 主页
-* 指定自定义皮肤社区规则
 
 ### v1.2.1
 
@@ -51,8 +32,25 @@
 * 新增换肤功能（后期将增加皮肤分享社区）
 * 将 Trending 爬虫策略修改为 Kanna
 
+### v1.2.2
+
+#### App 变化
+
+* 对于 Email 增加 App 内邮件发送功能（延期到 1.2.3）
+* 静态更新 follower 数据，并作出校准
+* cell 点击后动画时机优化（延期到 1.2.3）
+* 修复 *Straycat* 爬虫策略，修正数据错误
+* 废弃 *Telegram* 交流社区，转换为 *Wechat Group*
+* 修复 *Straycat* 爬虫奔溃。（Bugly 2018.5.8 上报崩溃率 19% 😭）
+
+#### GitHub 线上社区构建
+
+* 开始搭建 Pages 主页
+* 指定自定义皮肤社区规则
+
 ### v1.2.3
 
 * *ABTest* 模型上线；
 * Feed Activity UI Style 修改 - Repo Detail 信息外漏
 * 接入 `Curiouscat` 的 Markdown 渲染
+
